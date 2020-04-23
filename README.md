@@ -1,2 +1,2 @@
 # quickstart-linux-utilities
-Linux Common Utilitys
+Linux Common Utilities
